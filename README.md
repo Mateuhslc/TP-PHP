@@ -16,6 +16,6 @@ O **teach.me** nasceu do desejo de unificar o desejo das pessoas de passar seu c
 	- Localização
 	- Data
 	- Preço
-**Obs:** a "matéria" da aula não está restrito à matérias escolares, e sim a todo tipo de conhecimento que alguém queira passar aos gafanhotos. 
+- **Obs:** a "matéria" da aula não está restrito à matérias escolares, e sim a todo tipo de conhecimento que alguém queira passar aos gafanhotos. 
 3. **Inscrição e Avaliação:** o usuário ganhafoto tem a possibilidade de se inscrever nas aulas e avaliar o seu sensei.
 4. **Seguir o Sensei:** os usuários podem seguir os seus senseis favoritos, e seriam notificados quando este criar um nova aula. Haverá o feed com as aulas dos senseis que o usuários segue.
