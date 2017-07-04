@@ -1,0 +1,49 @@
+body{
+	overflow: scroll;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+}
+
+#barra-logo{
+	background-color: green;
+}
+
+#logo{
+	font-family: 'Fresca', sans-serif;
+	font-size: 170%;
+	padding: 0px;
+	padding-left: 5em;
+	margin: 0px;
+}
+
+#aba-pesquisa{
+	background-color: red;
+}
+
+#aulas{
+	background-color: blue
+}
+
+#botao-abrir-perfil{
+	background-color: orange;
+	margin-right: 97.5%;
+	float: right; 
+}
+
+#abrir-perfil{
+	border: 0%;
+}
+
+#aba-perfil{
+	background-color: yellow;
+	margin-top: -3%; 
+	padding-top: 5%;
+}
+
+#foto-perfil{
+	width: 50%;
+	height: 50%;
+}
